@@ -1,4 +1,4 @@
-# @boykush.
+# @boykush
 - Country: Japan
 - Year of Birth: 1997
 
