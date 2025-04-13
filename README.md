@@ -1,4 +1,14 @@
-## Hi there 👋
+# @boykush.
+- Country: Japan
+- Year of Birth: 1997
+
+I'm interested in:
+
+- Software Design
+- Agile (Testing)
+- DevOps
+
+My knowledge is organized in a [Wiki](https://boykush.github.io/wiki/).
 
 <!--
 **boykush/boykush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
