@@ -1,0 +1,21 @@
+# This repository's entities in boykush's Backstage catalog, found on main by its
+# GitHub discovery (boykush/infrastructure-as-code's applications/backstage/).
+# How an entity is written — which edges to draw, what a tag means — is set in
+# boykush/github-management's AGENTS.md and the comments atop its catalog/ files.
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: boykush
+  description: >-
+    GitHub の profile ページに出す README の置き場
+  links:
+    - url: https://github.com/boykush
+      title: GitHub profile
+      icon: github
+spec:
+  type: repository
+  lifecycle: production
+  owner: user:boykush
+  system: knowledge
+  dependsOn:
+    - component:workflows
